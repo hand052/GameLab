@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{DB62B491-E49E-E13F-B657-0C1E227517E5}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/changeValues.cs">
+    <Files>
+      <File FileName="Assets/Script/nextScene.cs" Line="13" Column="47" />
+      <File FileName="Assets/Script/startbutton.cs" Line="4" Column="35" />
+      <File FileName="Assets/Script/gameControl.cs" Line="29" Column="1" />
+      <File FileName="Assets/Script/changeValues.cs" Line="7" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
