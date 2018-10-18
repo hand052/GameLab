@@ -2,6 +2,7 @@
 using UnityEngine.UI;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class PlayerController : MonoBehaviour {
 
@@ -9,6 +10,9 @@ public class PlayerController : MonoBehaviour {
     public Text countText;
     public Text winText;
     public Text loseText;
+    public int sceneNum;
+    public bool onGround;
+  
 
     private Rigidbody rb;
     private int count;
@@ -59,8 +63,14 @@ public class PlayerController : MonoBehaviour {
         countText.text = "Count: " + count.ToString();
         if (count >= 20)
         {
+            SceneManager.LoadScene(sceneNum);
+        }
+        else if (count >= 40)
+        {
             winText.text = "You Won!!";
         }
+
+
 
     }
 
@@ -71,12 +81,21 @@ public class PlayerController : MonoBehaviour {
 
     void Update()
     {
-        if (Input.GetKeyDown(KeyCode.Space))
+        if (onGround)
         {
-            GetComponent<Rigidbody>().velocity = Vector3.up * speed;
+            if (Input.GetKeyDown(KeyCode.Space))
+            {
+                GetComponent<Rigidbody>().velocity = Vector3.up * speed;
+                onGround = false;
+            }
         }
-
-
     }
 
+    private void OnCollisionEnter(Collision other)
+    {
+        if(other.gameObject.CompareTag("ground"))
+        {
+            onGround = true;
+        }
+    }
 }

@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{48513F23-4629-E827-D5EE-77F270880BF6}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/restart.cs">
+    <Files>
+      <File FileName="Assets/birdJump.cs" Line="12" Column="1" />
+      <File FileName="Assets/sideScrolling.cs" Line="19" Column="65" />
+      <File FileName="Assets/restart.cs" Line="4" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{6900EC08-F2C6-54C0-1302-4AEE1AC9E41E}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../Class Stuff-Physics/Assets/Physics.cs">
+    <Files>
+      <File FileName="Assets/cubeAction.cs" Line="33" Column="34" />
+      <File FileName="Assets/timer.cs" Line="27" Column="39" />
+      <File FileName="../Class Stuff-Physics/Assets/Physics.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

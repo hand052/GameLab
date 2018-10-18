@@ -5,7 +5,7 @@
       <File FileName="Assets/Script/nextScene.cs" Line="13" Column="47" />
       <File FileName="Assets/Script/startbutton.cs" Line="4" Column="35" />
       <File FileName="Assets/Script/gameControl.cs" Line="29" Column="1" />
-      <File FileName="Assets/Script/changeValues.cs" Line="7" Column="1" />
+      <File FileName="Assets/Script/changeValues.cs" Line="31" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />

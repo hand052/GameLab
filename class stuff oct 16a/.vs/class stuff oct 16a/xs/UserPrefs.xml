@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{426DF944-4084-A8C9-EDBA-0A9D8A843DD1}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/CubeScript.cs">
+    <Files>
+      <File FileName="Assets/SpherePatrol.cs" Line="14" Column="126" />
+      <File FileName="Assets/CubeScript.cs" Line="19" Column="26" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
