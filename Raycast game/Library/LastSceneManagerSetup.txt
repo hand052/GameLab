@@ -1,4 +1,0 @@
-sceneSetups:
-- path: Assets/Scenes/Raycast game.unity
-  isLoaded: 1
-  isActive: 1
