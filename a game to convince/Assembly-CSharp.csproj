@@ -61,7 +61,17 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\dialogue.cs" />
+    <Compile Include="Assets\changeBackg.cs" />
+    <Compile Include="Assets\scripts\Character.cs" />
+    <Compile Include="Assets\scripts\characterManager.cs" />
+    <Compile Include="Assets\scripts\DialogueSystem.cs" />
+    <Compile Include="Assets\scripts\enableChar.cs" />
+    <Compile Include="Assets\scripts\EnMaid.cs" />
+    <Compile Include="Assets\scripts\EnMan.cs" />
+    <Compile Include="Assets\scripts\EnSis.cs" />
+    <Compile Include="Assets\startGame.cs" />
+    <Compile Include="Assets\testing\characterTest.cs" />
+    <Compile Include="Assets\testing\test.cs" />
     <Reference Include="UnityEditor.StandardEvents">
       <HintPath>/Users/danielhan/Documents/GameLab/a game to convince/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>

@@ -11,6 +11,8 @@ public class playerControl : MonoBehaviour
     {
         if(Input.GetKeyDown(KeyCode.W)){
             player.GetComponent<Rigidbody2D>().velocity = player.transform.up * 1;
+
+            ScreenWrap();
         }
 
 
@@ -40,6 +42,23 @@ public class playerControl : MonoBehaviour
 
         }
     }
-
-
+    void ScreenWrap()
+    {
+        if (transform.position.x < -9)
+        {
+            transform.position = new Vector2(8, transform.position.y);
+        }
+        if (transform.position.x > 9)
+        {
+            transform.position = new Vector2(-8, transform.position.y);
+        }
+        if (transform.position.y < -7)
+        {
+            transform.position = new Vector2(transform.position.x, 6);
+        }
+        if (transform.position.y > 7)
+        {
+            transform.position = new Vector2(transform.position.x, -6);
+        }
+    }
 }

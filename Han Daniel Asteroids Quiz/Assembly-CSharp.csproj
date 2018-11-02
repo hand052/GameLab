@@ -61,10 +61,11 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\restart.cs" />
     <Compile Include="Assets\scripts\asteroidSpawner.cs" />
+    <Compile Include="Assets\scripts\astroidMove.cs" />
     <Compile Include="Assets\scripts\destruction.cs" />
     <Compile Include="Assets\scripts\playerControl.cs" />
+    <Compile Include="Assets\scripts\restart.cs" />
     <Compile Include="Assets\scripts\shooting.cs" />
     <Reference Include="UnityEditor.StandardEvents">
       <HintPath>/Users/danielhan/Documents/GameLab/Han Daniel Asteroids Quiz/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
