@@ -20,7 +20,7 @@ MonoBehaviour:
   m_ShowMode: 4
   m_Title: 
   m_RootView: {fileID: 2}
-  m_MinSize: {x: 950, y: 613}
+  m_MinSize: {x: 950, y: 592}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &2
 MonoBehaviour:
@@ -43,7 +43,7 @@ MonoBehaviour:
     y: 0
     width: 1440
     height: 775
-  m_MinSize: {x: 950, y: 613}
+  m_MinSize: {x: 950, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &3
 MonoBehaviour:
@@ -105,10 +105,10 @@ MonoBehaviour:
     y: 30
     width: 1440
     height: 725
-  m_MinSize: {x: 917, y: 563}
-  m_MaxSize: {x: 22012, y: 12063}
+  m_MinSize: {x: 917, y: 542}
+  m_MaxSize: {x: 22012, y: 12042}
   vertical: 1
-  controlID: 8251
+  controlID: 123
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -131,10 +131,10 @@ MonoBehaviour:
     y: 0
     width: 1440
     height: 725
-  m_MinSize: {x: 917, y: 563}
-  m_MaxSize: {x: 22012, y: 12063}
+  m_MinSize: {x: 917, y: 542}
+  m_MaxSize: {x: 22012, y: 12042}
   vertical: 0
-  controlID: 8252
+  controlID: 124
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -156,10 +156,10 @@ MonoBehaviour:
     y: 0
     width: 677
     height: 725
-  m_MinSize: {x: 202, y: 563}
-  m_MaxSize: {x: 4002, y: 12063}
+  m_MinSize: {x: 202, y: 542}
+  m_MaxSize: {x: 4002, y: 12042}
   vertical: 1
-  controlID: 8123
+  controlID: 125
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -229,8 +229,8 @@ MonoBehaviour:
     y: 571
     width: 677
     height: 154
-  m_MinSize: {x: 102, y: 121}
-  m_MaxSize: {x: 4002, y: 4021}
+  m_MinSize: {x: 100, y: 100}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 17}
   m_Panes:
   - {fileID: 17}
@@ -337,7 +337,7 @@ MonoBehaviour:
     width: 675
     height: 329
   m_PersistentViewDataDictionary: {fileID: 0}
-  m_MaximizeOnPlay: 1
+  m_MaximizeOnPlay: 0
   m_Gizmos: 0
   m_Stats: 0
   m_SelectedSizes: 05000000000000000000000000000000000000000000000000000000000000000000000000000000
@@ -549,7 +549,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 044afdffc04afdff284cfdff2c4cfdff324cfdff7666fdff867cfdffa682fdffe487fdff7489fdfff6b6fdff84c7fdffcacbfdff46b0feffa0d2feffe8bbffffbaf8ffffd4fbffff00000000342f000066320000863200008a380000aa380000d43800001c3900003439000096390000bc390000fa3900003a410000be4600001c470000564b0000684b0000225100001453000096550000645b0000
+    m_ExpandedIDs: 54e9ffff14eaffff7cebffff80ebffff86ebffffa0f2ffff5af3ffffc6f4ffffcef4ffffd8f4ffffe6fbffff00000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -610,20 +610,20 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Scenes
+    - Assets/testing
   m_ViewMode: 1
   m_StartGridSize: 67
   m_LastFolders:
-  - Assets/Scenes
+  - Assets/testing
   m_LastFoldersGridSize: 67
   m_LastProjectPath: /Users/danielhan/Documents/GameLab/a game to convince
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 7a090000
-    m_LastClickedID: 2426
-    m_ExpandedIDs: 00000000500900007c0b0000
+    m_SelectedIDs: 6a0b0000
+    m_LastClickedID: 2922
+    m_ExpandedIDs: 000000003c090000680b0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -651,7 +651,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 6e64fdff
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000500900007c0b0000
+    m_ExpandedIDs: 000000003c090000680b0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -678,7 +678,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 0
+    m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: fa2c00001e34000032b3fdff00000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0

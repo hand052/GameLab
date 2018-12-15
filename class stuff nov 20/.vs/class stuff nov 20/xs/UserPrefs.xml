@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{DB765797-DE64-2483-AC40-7FE2E8C370F1}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/interact.cs">
+    <Files>
+      <File FileName="Assets/gameManager.cs" Line="28" Column="30" />
+      <File FileName="Assets/playerMove.cs" Line="58" Column="4" />
+      <File FileName="Assets/showCollected.cs" Line="15" Column="5" />
+      <File FileName="Assets/showLevelObjects.cs" Line="15" Column="2" />
+      <File FileName="Assets/interact.cs" Line="16" Column="37" />
+      <File FileName="Assets/showPacmanLevel.cs" Line="16" Column="17" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

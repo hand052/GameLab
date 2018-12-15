@@ -1,17 +1,17 @@
 ﻿<Properties StartupConfiguration="{8E17821A-EED0-8C96-3936-59A7004AE4BA}|">
   <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/scripts/EnMan.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/testing/test.cs">
     <Files>
-      <File FileName="Assets/startGame.cs" Line="12" Column="59" />
+      <File FileName="Assets/startGame.cs" Line="12" Column="78" />
       <File FileName="Assets/scripts/DialogueSystem.cs" Line="1" Column="1" />
       <File FileName="Assets/scripts/EnMaid.cs" Line="1" Column="1" />
       <File FileName="Assets/scripts/EnSis.cs" Line="1" Column="1" />
       <File FileName="Assets/scripts/Character.cs" Line="1" Column="1" />
       <File FileName="Assets/scripts/characterManager.cs" Line="1" Column="1" />
-      <File FileName="Assets/scripts/enableChar.cs" Line="1" Column="1" />
-      <File FileName="Assets/scripts/EnMan.cs" Line="1" Column="1" />
-      <File FileName="Assets/testing/test.cs" Line="1" Column="1" />
-      <File FileName="Assets/changeBackg.cs" Line="1" Column="1" />
+      <File FileName="Assets/scripts/enableChar.cs" Line="18" Column="56" />
+      <File FileName="Assets/scripts/EnMan.cs" Line="24" Column="31" />
+      <File FileName="Assets/testing/test.cs" Line="47" Column="91" />
+      <File FileName="Assets/changeBackg.cs" Line="50" Column="41" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />

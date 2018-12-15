@@ -129,6 +129,7 @@ dfd33ff9ae3ce8d7ca1f22b475ec2387 UnityEngine.HoloLens.dll:UnityEngine.XR.WSA.Spa
 678a5e9d7079660909a478c3b9571d52 Assembly-CSharp.dll:.test
 3861ed224e386a2257ff423f35284898 Assembly-CSharp.dll:.characterManager
 f16835701e71dd5d6fb1fed4b7aff1d8 Unity.TextMeshPro.dll:TMPro.TMP_Asset
+5371842fd385ab6b0d759b8a8007ef80 Assembly-CSharp.dll:.changeBackg
 486cd95c82d8305219c352c06b776e1f Unity.TextMeshPro.dll:TMPro.TMP_SpriteAnimator
 3df7dcb7796735ac7ba2aee35113abe3 Assembly-CSharp.dll:.startGame
 eaf0bcdb10d442a4029d615f41d09957 Unity.TextMeshPro.dll:TMPro.TextContainer
@@ -175,4 +176,3 @@ e04611b8715e6833d2bd7010fc6be10b Unity.TextMeshPro.dll:TMPro.TMP_StyleSheet
 9318334b30e9f195f573b2ce00154b95 Unity.TextMeshPro.dll:TMPro.TMP_ColorGradient
 a95799d6b7f2e4cad9f3aa8dc9926092 Assembly-CSharp.dll:.characterTest
 93307bd34e39d73fd24e00ec39c25a91 Unity.TextMeshPro.dll:TMPro.TMP_SubMesh
-5371842fd385ab6b0d759b8a8007ef80 Assembly-CSharp.dll:.changeBackg
